@@ -1,0 +1,28 @@
+{
+  "name": "asim_portfolio",
+  "version": "1.0.0",
+  "description": "This is a simple profile of Sayed Asim Sadat",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch ./src/styles/main.scss ./src/styles/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderahmadi/sadat-asim-portfolio.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "Sadat",
+    "Asim"
+  ],
+  "author": "Sayed Jamal Sadat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderahmadi/sadat-asim-portfolio/issues"
+  },
+  "homepage": "https://github.com/coderahmadi/sadat-asim-portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
